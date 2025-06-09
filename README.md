@@ -25,23 +25,5 @@ The web application has been partially deployed here: [Web App Link](https://tuo
 - Execute the following command:
   ```bash
   streamlit run Home.py
----
 
-### 👨‍🎓 Students
-
-- **Full name**: Lê Đình Trí
-  - **ID**: 22110442
-  - ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) [GitHub](https://github.com/tuoitho/)
-  - ![Facebook](https://img.icons8.com/ios-filled/20/000000/facebook--v1.png) [Facebook](https://www.facebook.com/tuoithodakhoc/)
-  - ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) tuoithokhoc1414@gmail.com
-  - ![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png) <img src="https://media.tenor.com/TAqs38FFJiwAAAAi/loading.gif" width="40" height="40" />
-
-
-
-- **Full name**: Vũ Bảo Long
-  - **ID**: 22110368
-  - ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) [GitHub](https://github.com/vubaolongkg)
-  - ![Facebook](https://img.icons8.com/ios-filled/20/000000/facebook--v1.png) [Facebook](https://web.facebook.com/profile.php?id=100010121539430)
-  - ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) vubaolong1484@gmail.com
-  - ![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png) <img src="https://media.tenor.com/TAqs38FFJiwAAAAi/loading.gif" width="40" height="40" />
 
